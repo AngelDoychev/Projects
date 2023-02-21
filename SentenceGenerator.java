@@ -11,11 +11,11 @@ public class SentenceGenerator {
                 "Leopold II of Belgium", "Osama bin Laden", "Mao Zedong", "Idi Amin Dada", "Idi Amin Dada", "Idi Amin Dada",
                 "Judas Iscariot", "Pol Pot", "Elizabeth Bathory", "Adolf Hitler", "Ivan IV", "Joseph Stalin", "Heinrich Himmler"};
         String[] places = {"your home", "An ancient lost city", "the depths of Hell", "your AA meeting", "Syria", "Plovdiv", "Sofia", "prom"
-                , "China", "The Americas", "Uranus", "back from vacation", "back from sunbathing", "last seen alive", "the show Dancing with the stars"};
+                , "China", "The Americas", "Uranus", "the vacation weekend you had 3 years ago", "back from sunbathing", "last seen alive", "the show Dancing with the stars"};
         String[] verbs = {"bamboozling", "holds", "eats", "sees", "plays with", "brings", "caresses", "strokes", "kisses",
                 "devours", "cuts", "stalks", "prepares"};
-        String[] nouns = {"the philosopher stones", "a cake", "an apple", " a laptop", "bikes", "hornets nest", "thing", "banana", "device",
-                "small box of fun", "big box of fun", "protein shake", "spoon", "chicken wing", "a small child", "something smelly"};
+        String[] nouns = {"the philosopher stones", "a cake", "an apple", " a laptop", "bikes", "a hornets nest", "a thing", "a banana", "a device",
+                "a small box of fun", "a big box of fun", "a protein shake", "a spoon", "a chicken wing", "a small child", "something smelly"};
         String[] adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly",};
         String[] details = {"near the river", "at home", "in the park", "in your home", "at an amusement festival", "in your car",
                 "near your mom", "inside you", "right behind you", "somewhere in the area", "somewhere in the area, but you know because of an amber alert",
